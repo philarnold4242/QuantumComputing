@@ -4,6 +4,8 @@
 
 * Lectures: Quantum Computing
 
+    * [Qiskit - Summer school](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+
     * [John Write](https://www.cs.cmu.edu/~odonnell/quantum15/)
 
         * https://www.cs.utexas.edu/~wright/
@@ -44,6 +46,8 @@
 * [Inference on Bayesian Nets](https://medium.com/analytics-vidhya/quantum-machine-learning-inference-on-bayesian-networks-351f242816e8)
 
 * [Gaussian Processes (and DL) on Quantum Computers](https://www.youtube.com/watch?v=7CKqbIoxYGA)
+
+* [Non-linear equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
 
 ## Videos
 
